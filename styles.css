@@ -1,0 +1,111 @@
+body {
+    font-family: 'Poppins', sans-serif;
+background:#7b0bd6;}
+
+.link {
+    color: #4b9cb9;
+    text-decoration: none;
+}
+#alternative-product {
+    background: #d1d4df;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+    color: black;
+    text-align: center;
+    padding: 10px 0;
+}
+.img-fluid {
+    max-height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card-img {
+    max-height: 140px;
+width: unset;
+}
+.custom-select-style {
+    font-size: 22px;
+    padding: 10px;
+    margin: 10px;
+    height: 50px; /* Adjust this value as needed */
+}
+hr {
+    width: 80% !important;
+}
+.custom-select-style {
+    font-size: 22px;
+    padding: 3px 18px 0 18px;
+    margin: 5px 0;
+    height: 60px;
+    border-radius: 8px;
+}
+div#flags-container {
+    background: #ffffff1a;
+    width: fit-content;
+    margin: 0 auto;
+    border-radius: 5px;
+    padding: 4px 5px 5px 5px;
+}
+img#product-image {
+    margin-top: 15px !important;
+    margin-bottom: 15px !important;
+}
+h3.text-center.my-3 {
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 13px;
+    letter-spacing: 4px;
+    padding-top: 10px;
+}
+div#flags-container {
+    margin-bottom: 20px !important;
+}
+footer.footer {
+    background: none;
+    font-size: 12px;
+    line-height: 200%;
+}
+image-container {
+    position: relative;
+    height: calc(100vh - 100px); /* Adjust this value as necessary */
+}
+
+.bottom-fixed {
+    position: absolute;
+    bottom: 0;
+    width: 100%; /* Adjust this as necessary */
+}
+
+.review-image {
+    display: block;
+    margin: 0 auto; /* This will center the image */
+    max-width: 85%;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 5px;
+    color: #ffffff7d !important;
+}
+h1#product-name {
+    color: white;
+}
+.h1, h1 {
+    font-size: 2.8rem;
+}
+img#product-image {
+    background: #ffffff0d;
+    padding: 15px 50px;
+    border-radius: 10px;
+}
+
+h1#product-name {
+    margin-top: 25px;
+    MARGIN-BOTTOM: 20px !important;
+}
